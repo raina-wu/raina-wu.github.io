@@ -2,42 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3dworks on Spaceshrimp</title>
-    <link>https://raina-wu.github.io/3dwork/index.xml</link>
+    <link>https://raina-wu.github.io/3dwork/</link>
     <description>Recent content in 3dworks on Spaceshrimp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Raina Wu</copyright>
-    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
-    <atom:link href="https://raina-wu.github.io/3dwork/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2016 19:44:32 +0530</lastBuildDate>
     
-    <item>
-      <title>lalala</title>
-      <link>https://raina-wu.github.io/3dwork/index_raina/</link>
-      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
-      
-      <guid>https://raina-wu.github.io/3dwork/index_raina/</guid>
-      <description>&lt;p&gt;
-&lt;figure &gt;
+	<atom:link href="https://raina-wu.github.io/3dwork/index.xml" rel="self" type="application/rss+xml" />
     
-        &lt;img src=&#34;img/favicon.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Title of Image&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-lalalalalla
-Raina test.
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/146022717&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Name of the work 3</title>
@@ -46,33 +19,16 @@ Raina test.
       
       <guid>https://raina-wu.github.io/3dwork/work3/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;
-
-&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&lt;/p&gt;
-
-&lt;p&gt;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn&amp;rsquo;t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;header-level-2&#34;&gt;Header Level 2&lt;/h2&gt;
-
-&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;
-
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn&amp;rsquo;t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then&lt;/p&gt;</description>
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>lalala</title>
+      <link>https://raina-wu.github.io/3dwork/index_raina/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      
+      <guid>https://raina-wu.github.io/3dwork/index_raina/</guid>
+      <description>  Title of Image   lalalalalla Raina test.   </description>
     </item>
     
   </channel>
